@@ -13,11 +13,17 @@ Overall precautions
 
 For extracting extra and intracellular
 1)	Weight and aliquot Sample in 50 ml centrifuge tubes
+
 2)	Shake tube to mix sediment and make it easier to remove sample
+
   a)	Weight out sample-1 g
+  
     i)	If already had phosphate buffer added (old protocol)
+    
       (1)	Add DNA extracted from commercial kit
+      
       (2)	Skip step 3
+      
 3)	PO4 Addition
   a)	Organic rich and sandy sediments
     i)	100 mol PO4 g-1
