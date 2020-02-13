@@ -16,7 +16,7 @@ For extracting extra and intracellular
 
 2)	Shake tube to mix sediment and make it easier to remove sample
 
-  a)	Weight out sample-1 g
+    a)	Weight out sample-1 g
   
     i)	If already had phosphate buffer added (old protocol)
     
